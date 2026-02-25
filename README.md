@@ -11,7 +11,7 @@ It highlights my software engineering projects, technical skills, education, and
 ## 📸 Website Preview
 
 ### Home Section
-![Home](images/about-me section.png)
+![Home](images/aboutme.png)
 
 ## Technologies
 - C++
