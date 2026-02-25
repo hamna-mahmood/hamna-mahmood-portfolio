@@ -10,8 +10,8 @@ This repository contains the source code for my personal portfolio website.
 It highlights my software engineering projects, technical skills, education, and contact information.
 ## 📸 Website Preview
 
-### Home Section
-![Home](images/about-me.png)
+### 📸 Preview
+![Portfolio Preview](images/about-me.png)
 
 ## Technologies
 - C++
