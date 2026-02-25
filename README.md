@@ -26,4 +26,4 @@ Open index.html in browser
 
 ## 📬 Contact
 Email: hamnamahmood004@gmail.com  
-LinkedIn: linkedin.com/in/hamnamahmood
+LinkedIn: https://linkedin.com/in/hamnamahmood
