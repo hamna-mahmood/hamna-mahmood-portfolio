@@ -8,6 +8,10 @@ Full-Stack Developer | Web & Desktop App Development | Designer
 ## 📌 About
 This repository contains the source code for my personal portfolio website.  
 It highlights my software engineering projects, technical skills, education, and contact information.
+## 📸 Website Preview
+
+### Home Section
+![Home](images/about-me section.png)
 
 ## Technologies
 - C++
