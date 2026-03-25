@@ -35,7 +35,7 @@ It showcases my projects, technical skills, education, and experience as a Softw
 
 * **Languages:** Python, C++, JavaScript, PHP
 * **Frontend:** HTML, CSS
-* **Frontend:** MySQL
+* **Backend:** MySQL
 * **Desktop:** PyQt5
 * **Tools:** Git, GitHub, VS Code
 
