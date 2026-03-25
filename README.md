@@ -23,7 +23,7 @@ It showcases my projects, technical skills, education, and experience as a Softw
 ---
 
 ## 🎬 Demo Preview
-![Portfolio Demo](images/portfolio-gif.gif)
+![Portfolio Demo](images/portfolio-gif.mp4)
 
 ---
 
