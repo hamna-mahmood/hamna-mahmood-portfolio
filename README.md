@@ -1,29 +1,60 @@
-# Hamna Mahmood Portfolio
-Rawalpindi, Punjab, Pakistan
+# 🌐 Hamna Mahmood – Portfolio
 
-Software Engineering Student at Fatima Jinnah Women University 2023-Present
+📍 Rawalpindi, Punjab, Pakistan
+🎓 Software Engineering Student – Fatima Jinnah Women University (2023–Present)
+💻 Full-Stack Developer | Web & Desktop Applications | Web Designer Developer
 
-Full-Stack Developer | Web & Desktop App Development | Designer
+---
 
 ## 📌 About
-This repository contains the source code for my personal portfolio website.  
-It highlights my software engineering projects, technical skills, education, and contact information.
-## 📸 Website Preview
 
-### 📸 Preview
-![Portfolio Preview](images/about-me.png)
+This repository contains the source code for my personal portfolio website.
+It showcases my projects, technical skills, education, and experience as a Software Engineering student.
 
-## Technologies
-- C++
-- Python, PyQt5
-- HTML
-- CSS
-- JavaScript
-- PHP
+---
 
-## How To Run
-Open index.html in browser
+## 🚀 Features
+
+* Responsive and modern UI design
+* Project showcase with detailed descriptions
+* Skills and certifications section
+* Clean and user-friendly layout
+
+---
+
+## 📸 Preview
+
+![Portfolio Preview](images/portfolio_snap.png)
+
+---
+
+## 🛠️ Tech Stack
+
+* **Languages:** Python, C++, JavaScript, PHP
+* **Frontend:** HTML, CSS
+* **Frontend:** MySQL
+* **Desktop:** PyQt5
+* **Tools:** Git, GitHub, VS Code
+
+---
+
+## ⚙️ How to Run
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/hamna-mahmood/hamna-mahmood-portfolio.git
+   ```
+2. Open the project folder
+3. Run `index.html` in your browser
+
+---
 
 ## 📬 Contact
-Email: hamnamahmood004@gmail.com  
-LinkedIn: https://linkedin.com/in/hamnamahmood
+
+📧 Email: [hamnamahmood004@gmail.com](mailto:hamnamahmood004@gmail.com)
+🔗 LinkedIn: https://linkedin.com/in/hamnamahmood
+
+---
+
+⭐ *Feel free to explore, fork, and give feedback!*
