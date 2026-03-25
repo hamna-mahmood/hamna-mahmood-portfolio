@@ -24,7 +24,7 @@ It showcases my projects, technical skills, education, and experience as a Softw
 ## Preview
 ![Description](images/portfolio_snap.PNG)
 ![Description](images/skills_and_projects.PNG)
-![Description](images/edu_cert_proj.PNG)
+![Description](images/edu_and_cert.PNG)
 
 ## 🎬 Demo Preview
 ![Portfolio Demo](images/portfolio-gif.gif)
