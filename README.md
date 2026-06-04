@@ -6,14 +6,17 @@
 
 ---
 
-## 📌 About
+## About
 
-This repository contains the source code for my personal portfolio website.
-It showcases my projects, technical skills, education, and experience as a Software Engineering student.
+A modern, responsive personal portfolio website built to showcase my projects, technical skills, and development journey as a Software Engineering student.
+Designed with a focus on clean UI, responsiveness, and professional presentation.
+
+Explore my portfolio here:  
+[View My Portfolio Website](https://hamna-mahmood.github.io/hamna-mahmood-portfolio/)
 
 ---
 
-## 🚀 Features
+## Features
 
 * Responsive and modern UI design
 * Project showcase with detailed descriptions
@@ -26,7 +29,7 @@ It showcases my projects, technical skills, education, and experience as a Softw
 ![Description](images/proj_edu.PNG)
 ![Description](images/exp_and_cert.PNG)
 
-## 🎬 Demo Preview
+## Demo Preview
 ![Portfolio Demo](images/portfolio-gif.gif)
 
 ---
@@ -38,6 +41,15 @@ It showcases my projects, technical skills, education, and experience as a Softw
 * **Backend:** MySQL
 * **Desktop:** PyQt5
 * **Tools:** Git, GitHub, VS Code
+
+---
+
+##  What I Learned
+
+- Responsive web design principles
+- UI/UX fundamentals
+- Structuring a multi-page portfolio website
+- Version control using Git & GitHub
 
 ---
 
@@ -53,11 +65,9 @@ It showcases my projects, technical skills, education, and experience as a Softw
 
 ---
 
-## 📬 Contact
+## Contact
 
 📧 Email: [hamnamahmood004@gmail.com](mailto:hamnamahmood004@gmail.com)
 🔗 LinkedIn: https://linkedin.com/in/hamnamahmood
 
 ---
-
-⭐ *Feel free to explore, fork, and give feedback!*
