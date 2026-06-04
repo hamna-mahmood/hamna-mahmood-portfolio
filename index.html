@@ -3,61 +3,67 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Portfolio</title>
+<title>Hamna Mahmood - Portfolio</title>
 
 <style>
 
-/* ================= KEEP YOUR ORIGINAL LOOK (SAFE BASE) ================= */
+/* ================= BASE THEME (BLUE STYLE) ================= */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: #f4f6f9; /* keep your soft background */
+  background: #eef3fb;
 }
 
-/* ================= CENTER WRAPPER ================= */
-.container {
-  max-width: 1000px;
-  margin: auto;
+/* ================= HEADER (BLUE ORIGINAL FEEL) ================= */
+header {
+  background: #4a90e2;
+  color: white;
+  text-align: center;
   padding: 30px 20px;
 }
 
-/* ================= SECTION ALIGNMENT ================= */
-.section {
-  text-align: center;
-  margin-bottom: 40px;
+/* ================= MAIN CONTAINER ================= */
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding: 20px;
 }
 
-/* ================= TAGS (UNCHANGED STYLE FEEL) ================= */
+/* ================= SECTION ================= */
+.section {
+  text-align: center;
+  margin: 40px 0;
+}
+
+/* ================= TAGS ================= */
 .tags {
   display: flex;
-  justify-content: center;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 10px;
 }
 
 .tag {
-  background: #e0e0e0;
+  background: #dbe9ff;
+  color: #1d3f72;
   padding: 6px 12px;
   border-radius: 6px;
   font-size: 14px;
 }
 
-/* ================= PROJECT CARD (RESTORES YOUR MISSING BG) ================= */
+/* ================= PROJECT CARDS ================= */
 .project {
   background: white;
-  padding: 20px;
-  margin: 20px auto;
   max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
   border-radius: 12px;
-
-  /* THIS IS WHAT WAS MISSING */
-  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
-
   text-align: left;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
 }
 
-/* ================= BUTTON STYLE ================= */
+/* ================= BUTTON ================= */
 .project a {
   display: inline-block;
   margin-top: 10px;
@@ -72,14 +78,22 @@ body {
   background: #2f6fc2;
 }
 
+/* ================= HEADINGS ================= */
 h2 {
   text-align: center;
+  color: #333;
 }
 
 </style>
 </head>
 
 <body>
+
+<!-- ================= HEADER ================= -->
+<header>
+  <h1>Hamna Mahmood</h1>
+  <p>Software Engineering Student | Full Stack Developer | AI/ML Enthusiast</p>
+</header>
 
 <div class="container">
 
@@ -112,7 +126,6 @@ h2 {
 
 </div>
 
-
 <!-- ================= EXPERIENCE ================= -->
 <div class="section">
 
@@ -120,14 +133,14 @@ h2 {
 
   <div class="project">
     <ul>
-      <li>Worked on structured web-related tasks</li>
-      <li>Collaborated in professional environment</li>
-      <li>Improved workflow coordination</li>
+      <li>Developing AI-based solutions including chatbot systems</li>
+      <li>Exploring generative AI applications such as music generation</li>
+      <li>Working on improving machine learning pipelines and model performance</li>
+      <li>Worked on structured web-related tasks in professional environment</li>
     </ul>
   </div>
 
 </div>
-
 
 <!-- ================= PROJECTS ================= -->
 <div class="section">
@@ -137,9 +150,8 @@ h2 {
   <!-- MEDICONNECT -->
   <div class="project">
     <h3>Mediconnect</h3>
-
     <ul>
-      <li>Multi-language web app (English, Hindi, Tamil)</li>
+      <li>Multi-language web application</li>
       <li>Role-based login system</li>
       <li>Prescription management</li>
       <li>Stock tracking</li>
@@ -154,7 +166,6 @@ h2 {
   <!-- SMART CAMPUS -->
   <div class="project">
     <h3>Smart Campus Resource Management System</h3>
-
     <ul>
       <li>Multi-user authentication</li>
       <li>Resource booking system</li>
@@ -170,13 +181,12 @@ h2 {
   <!-- FAKE NEWS -->
   <div class="project">
     <h3>Fake News Detection System</h3>
-
     <ul>
       <li>Dataset: 44,000+ news articles</li>
       <li>ML Models: Logistic Regression, Decision Tree, Random Forest</li>
       <li>DL Models: CNN and LSTM</li>
       <li>TF-IDF and Tokenization used for preprocessing</li>
-      <li>Best Accuracy: 99.76% (Random Forest)</li>
+      <li>Best Accuracy: 99.76%</li>
     </ul>
 
     <p><strong>Tech Stack:</strong> Python, Scikit-learn, TensorFlow, Seaborn</p>
