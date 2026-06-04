@@ -7,28 +7,28 @@
 
 <style>
 
-/* ===== PAGE BACKGROUND ===== */
+/* ================= KEEP YOUR ORIGINAL LOOK (SAFE BASE) ================= */
 body {
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
-  background: #f4f6f9;
+  background: #f4f6f9; /* keep your soft background */
 }
 
-/* ===== MAIN CENTER CONTAINER ===== */
+/* ================= CENTER WRAPPER ================= */
 .container {
   max-width: 1000px;
   margin: auto;
   padding: 30px 20px;
 }
 
-/* ===== SECTION CENTERING ===== */
+/* ================= SECTION ALIGNMENT ================= */
 .section {
   text-align: center;
   margin-bottom: 40px;
 }
 
-/* ===== TAGS ===== */
+/* ================= TAGS (UNCHANGED STYLE FEEL) ================= */
 .tags {
   display: flex;
   justify-content: center;
@@ -43,24 +43,21 @@ body {
   font-size: 14px;
 }
 
-/* ===== PROJECT CARDS ===== */
-.projects {
-  margin-top: 20px;
-}
-
+/* ================= PROJECT CARD (RESTORES YOUR MISSING BG) ================= */
 .project {
   background: white;
   padding: 20px;
   margin: 20px auto;
+  max-width: 800px;
   border-radius: 12px;
-  max-width: 750px;
 
-  /* THIS IS WHAT YOU LOST */
+  /* THIS IS WHAT WAS MISSING */
   box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+
   text-align: left;
 }
 
-/* ===== BUTTON ===== */
+/* ================= BUTTON STYLE ================= */
 .project a {
   display: inline-block;
   margin-top: 10px;
@@ -75,7 +72,6 @@ body {
   background: #2f6fc2;
 }
 
-/* ===== HEADINGS ===== */
 h2 {
   text-align: center;
 }
@@ -124,12 +120,6 @@ h2 {
 
   <div class="project">
     <ul>
-      <li>Developing AI-based solutions including chatbot systems</li>
-      <li>Exploring generative AI applications such as music generation</li>
-      <li>Improving machine learning pipelines and model performance</li>
-    </ul>
-
-    <ul>
       <li>Worked on structured web-related tasks</li>
       <li>Collaborated in professional environment</li>
       <li>Improved workflow coordination</li>
@@ -140,12 +130,14 @@ h2 {
 
 
 <!-- ================= PROJECTS ================= -->
-<div class="section projects">
+<div class="section">
 
   <h2>Projects</h2>
 
+  <!-- MEDICONNECT -->
   <div class="project">
     <h3>Mediconnect</h3>
+
     <ul>
       <li>Multi-language web app (English, Hindi, Tamil)</li>
       <li>Role-based login system</li>
@@ -159,8 +151,10 @@ h2 {
     </a>
   </div>
 
+  <!-- SMART CAMPUS -->
   <div class="project">
     <h3>Smart Campus Resource Management System</h3>
+
     <ul>
       <li>Multi-user authentication</li>
       <li>Resource booking system</li>
@@ -173,6 +167,7 @@ h2 {
     </a>
   </div>
 
+  <!-- FAKE NEWS -->
   <div class="project">
     <h3>Fake News Detection System</h3>
 
