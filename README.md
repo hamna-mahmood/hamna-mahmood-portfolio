@@ -1,8 +1,10 @@
 # Hamna Mahmood – Portfolio
 
-### Rawalpindi, Punjab, Pakistan
-### Software Engineering Student – Fatima Jinnah Women University (2023–Present)
-### Full-Stack Developer | AI-Powered Applications | UI/UX Designer
+Rawalpindi, Pakistan
+
+Fatima Jinnah Women University (2023–Present)
+
+Software Engineering Student | Full-Stack Developer | AI-Powered Applications  
 
 ---
 
