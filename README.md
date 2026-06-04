@@ -11,7 +11,6 @@
 A modern, responsive personal portfolio website built to showcase my projects, technical skills, and development journey as a Software Engineering student.
 Designed with a focus on clean UI, responsiveness, and professional presentation.
 
-Explore my portfolio here:  
 [View My Portfolio Website](https://hamna-mahmood.github.io/hamna-mahmood-portfolio/)
 
 ---
