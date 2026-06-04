@@ -18,19 +18,21 @@ body {
 
 /* ================= HEADER (ATTRACTIVE UPGRADE) ================= */
 header {
-  background: linear-gradient(135deg, #2563eb, #7c3aed);
-  padding: 40px 20px;
+  background: linear-gradient(135deg,#06b6d4,#7c3aed,#ec4899);
+  color: white;
+  padding: 80px 20px;
   text-align: center;
   box-shadow: 0 6px 20px rgba(0,0,0,0.4);
 }
 
 header h1 {
   margin: 0;
-  font-size: 2.2rem;
+  font-size: 3.2rem;
+  font-weight: 800;
 }
 
 header p {
-  margin-top: 8px;
+  margin-top: 10px;
   opacity: 0.9;
 }
 
@@ -55,6 +57,9 @@ header p {
 }
 
 h2 {
+  font-size:1.9rem;
+  margin-bottom:25px;
+  position:relative;
   color: #93c5fd;
   letter-spacing: 0.5px;
 }
@@ -68,29 +73,30 @@ h2 {
 }
 
 .tag {
-  background: rgba(59, 130, 246, 0.15);
+ linear-gradient(135deg,#06b6d4,#7c3aed);
   border: 1px solid rgba(59, 130, 246, 0.3);
   color: #cbd5e1;
   padding: 6px 12px;
-  border-radius: 8px;
+  border-radius: 20px;
   font-size: 14px;
 }
 
 /* ================= PROJECT CARDS (MODERN LOOK) ================= */
 .project {
-  background: rgba(17, 24, 39, 0.9);
+ background:rgba(255,255,255,0.05);
+   backdrop-filter:blur(10px);
+  padding:25px;
   border: 1px solid rgba(59, 130, 246, 0.2);
   max-width: 800px;
   margin: 20px auto;
-  padding: 20px;
   border-radius: 14px;
   text-align: left;
-  box-shadow: 0 6px 20px rgba(0,0,0,0.4);
+   box-shadow:0 10px 30px rgba(0,0,0,0.4);
   transition: 0.3s ease;
 }
 
 .project:hover {
-  transform: translateY(-4px);
+  transform: scale(1.03);
   border-color: rgba(124, 58, 237, 0.5);
   box-shadow: 0 10px 25px rgba(0,0,0,0.6);
 }
